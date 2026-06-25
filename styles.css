@@ -1,0 +1,14 @@
+.valores:valid{
+    border-color: greenyellow;
+    background-repeat: no-repeat;
+    background-image:url(images.png) ;
+    background-position: right;
+    background-size: 20px;
+}
+.valores:invalid{
+    border-color: rgb(255, 47, 47);
+    background-repeat: no-repeat;
+    background-image:url(incorrecto.png) ;
+    background-position: right;
+    background-size: 20px;
+}
